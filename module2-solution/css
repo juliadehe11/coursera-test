@@ -76,7 +76,7 @@ span {
 /* Mobile view */
 @media (max-width: 767px)  {
   
-  .col-sx-12 {
+  .col-sm-12 {
     float: left;
     width: 100%;
   }
