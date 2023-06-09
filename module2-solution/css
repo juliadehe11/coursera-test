@@ -6,7 +6,7 @@ h1 {
   font-size: 27px;
   font-family: fantasy;
   text-align: center;
-  color: rgb(0, 0, 0);
+  color: black;
   margin-bottom: 30px;
 }
 
